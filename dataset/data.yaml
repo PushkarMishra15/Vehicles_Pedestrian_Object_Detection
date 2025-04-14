@@ -1,0 +1,6 @@
+train: /home/orbo/pushkar/yolo_detection/dataset/vd_dataset/train/images
+val: /home/orbo/pushkar/yolo_detection/dataset/vd_dataset/valid/images
+
+nc: 3
+
+names: ['car', 'pedestrian', 'cyclist']

@@ -24,7 +24,7 @@ https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d
 
 ## Running Script
 
-If you want to run the training script 
+If you want to run the training script, then download the dataset and configure the data.yaml file and run the command
 
 ```bash
   cd training_files/python train.py
