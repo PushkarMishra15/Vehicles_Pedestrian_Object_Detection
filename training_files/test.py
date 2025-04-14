@@ -3,10 +3,10 @@ import time
 import cv2
 
 # Load the YOLO model
-model = YOLO("/home/orbo/pushkar/yolo_detection/runs/detect/train6/weights/best.pt")
+model = YOLO("C:/Users/Pushkar/Downloads/Project/vehicles_pedestrian/runs/train6/weights/best.pt")
 
 # Video path
-video_path = "/home/orbo/pushkar/vehicles_pedestrian/testing_data/vedio2.mp4"
+video_path = "C:/Users/Pushkar/Downloads/mixkit-times-square-during-a-rainy-night-4332-hd-ready.mp4"
 
 # Count frames using OpenCV
 cap = cv2.VideoCapture(video_path)
@@ -26,5 +26,5 @@ end_time = time.time()
 total_time = end_time - start_time
 fps = frame_count / total_time if total_time > 0 else 0
 
-print(f"\n📹 Processed {frame_count} frames in {total_time:.2f} seconds.")
+print(f"/n📹 Processed {frame_count} frames in {total_time:.2f} seconds.")
 print(f"⚡ Average FPS: {fps:.2f}")

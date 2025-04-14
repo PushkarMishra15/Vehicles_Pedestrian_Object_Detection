@@ -11,7 +11,7 @@ This project aims to detect and track vehicles (cars, cyclists) and pedestrians 
 ## Dataset
 
 This project uses the KITTI Vision Benchmark Suite, a widely-used dataset for autonomous driving and computer vision tasks. It consists of annotated images containing vehicles, pedestrians, and cyclists in various urban traffic scenarios. 
-the link to the dataset is provided below.
+The link to the dataset is provided below.
 
 https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d
 
@@ -55,6 +55,6 @@ If you want to run the training script without tracking
 
 ## Input _Output
 
-The Input and output vedio can be find in the below link 
+The Input and Output video can be find in the below link 
 
 https://drive.google.com/drive/folders/1VRBmdEXamC-gyMik6ECrXTa65Q2TaI_e?usp=sharing
