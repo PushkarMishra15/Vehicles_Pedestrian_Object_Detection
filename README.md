@@ -52,3 +52,9 @@ If you want to run the training script without tracking
 - Recall : 83.3 %
 
 
+
+## Input _Output
+
+The Input and output vedio can find in the below link 
+
+https://drive.google.com/drive/folders/1VRBmdEXamC-gyMik6ECrXTa65Q2TaI_e?usp=sharing
