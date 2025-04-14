@@ -55,6 +55,6 @@ If you want to run the training script without tracking
 
 ## Input _Output
 
-The Input and output vedio can find in the below link 
+The Input and output vedio can be find in the below link 
 
 https://drive.google.com/drive/folders/1VRBmdEXamC-gyMik6ECrXTa65Q2TaI_e?usp=sharing
